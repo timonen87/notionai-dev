@@ -890,7 +890,7 @@
   "com.affine.settings.email.action": "Изменить Email",
   "com.affine.settings.email.action.change": "Изменить Email",
   "com.affine.settings.email.action.verify": "Подтвердить Email",
-  "com.affine.settings.member-tooltip": "Включите AFFiNE AI" Cloud для совместной работы с другими пользователями",
+  "com.affine.settings.member-tooltip": "Включите Notion AI Cloud для совместной работы с другими пользователями",
   "com.affine.settings.member.loading": "Загрузка списка участников...",
   "com.affine.settings.noise-style": "Фоновый шум на боковой панели",
   "com.affine.settings.noise-style-description": "Используйте эффект фонового шума на боковой панели.",
